@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jairbnb<br>👯 I’m looking to collaborate on a project to change the world<br>🌱 I’m currently learning Next.js<br>💬 Ask me about C++, Python and React
+🔭 I’m currently working on Iphone 15 Pro Website Clone<br>👯 I’m looking to collaborate on a project to change the world<br>🌱 I’m currently learning Next.js<br>💬 Ask me about C++, Python and React
 
 
 ## 🌐 Socials:
